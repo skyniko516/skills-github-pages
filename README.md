@@ -1,3 +1,83 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>立即領取 skyniko 專屬優惠｜新加坡環球影城</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Arial', sans-serif;
+      background: #fefefe;
+      color: #333;
+      text-align: center;
+    }
+    header {
+      background-image: url('https://images.ctfassets.net/9wtva4vhlgxb/6AakLMbepWF7pSuTXkh2Qz/3c7d06a2de0e17efca6a77c75a5a9b2d/USS_Header.jpg');
+      background-size: cover;
+      background-position: center;
+      height: 50vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+    }
+    header h1 {
+      font-size: 2.5rem;
+      background: rgba(0, 0, 0, 0.5);
+      padding: 1rem 2rem;
+      border-radius: 10px;
+    }
+    main {
+      padding: 2rem 1rem;
+      max-width: 600px;
+      margin: auto;
+    }
+    .code-box {
+      background: #f5f5f5;
+      padding: 1rem;
+      border: 1px dashed #999;
+      margin: 1rem 0;
+      font-size: 1.2rem;
+    }
+    a.button {
+      display: inline-block;
+      margin-top: 1rem;
+      padding: 0.8rem 1.5rem;
+      background-color: #ff5b00;
+      color: white;
+      border-radius: 5px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    footer {
+      margin-top: 2rem;
+      font-size: 0.9rem;
+      color: #999;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🛍 領取專屬優惠碼 skyniko</h1>
+  </header>
+  <main>
+    <h2>🎢 新加坡環球影城優惠來啦！</h2>
+    <p>只要透過下方按鈕進入 Klook 網頁，就能在結帳時輸入優惠碼 <strong>skyniko</strong>，享受獨家折扣！</p>
+
+    <div class="code-box">
+      優惠碼：<strong>skyniko</strong>
+    </div>
+
+    <a class="button" href="https://www.klook.com/zh-TW/activity/117-universal-studios-singapore/?promo=skyniko" target="_blank">
+      🚀 立即前往 Klook 使用優惠
+    </a>
+  </main>
+  <footer>
+    本優惠碼由 @sky_niko516 提供 ✨
+  </footer>
+</body>
+</html>
 <header>
 
 <!--
